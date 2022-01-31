@@ -1,0 +1,12 @@
+# Gradle
+.gradle/
+/build/
+
+# Idea
+.idea/
+*.iml
+
+# Eclipse
+./settings
+.classpath
+.project
